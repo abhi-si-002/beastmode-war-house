@@ -17,7 +17,7 @@ export function HeroSection() {
                 <span className="block text-orange-300">WAR-HOUSE GYM</span>
               </h1>
               <p className="text-xl lg:text-2xl text-red-100 mt-6">
-                Transform your body and unleash your potential at Demopolis' premier fitness destination. 
+                Transform your body and unleash your potential at Demopolis premier fitness destination. 
                 Where strength meets determination.
               </p>
             </div>

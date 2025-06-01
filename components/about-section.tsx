@@ -44,7 +44,7 @@ export function AboutSection() {
               potential to achieve their fitness goals with the right environment and guidance.
             </p>
             <p className="text-gray-600 mb-6">
-              Our facility is designed to accommodate all fitness levels, from beginners to advanced athletes. Whether you're
+              Our facility is designed to accommodate all fitness levels, from beginners to advanced athletes. Whether you are
               looking to build muscle, lose weight, or improve your overall fitness, we have the equipment and expertise
               to help you succeed.
             </p>
